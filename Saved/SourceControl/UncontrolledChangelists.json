@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/s5154975/Documents/GitHub/Intermediate/Content/Level_3.umap",
+				"C:/Users/s5154975/Documents/GitHub/Intermediate/Content/Jump_Pad.uasset",
+				"C:/Users/s5154975/Documents/GitHub/Intermediate/Content/Blueprints/Target_JP.uasset",
+				"C:/Users/s5154975/Documents/GitHub/Intermediate/Content/Blueprints/BPI_Activate.uasset",
+				"C:/Users/s5154975/Documents/GitHub/Intermediate/Content/Blueprints/target_materials/yellow/target_coloured_lambert2_BaseColor_Mat.uasset",
+				"C:/Users/s5154975/Documents/GitHub/Intermediate/Content/JumpPad_Fan.uasset",
+				"C:/Users/s5154975/Documents/GitHub/Intermediate/Content/Bridge.uasset",
 				"F:/Intermediate Assignment/Intermediate/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"F:/Intermediate Assignment/Intermediate/Content/Blueprints/Target_1.uasset",
 				"F:/Intermediate Assignment/Intermediate/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
